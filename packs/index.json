@@ -1,0 +1,12 @@
+[
+ {
+  "id": "ko-vi",
+  "pair": "ko-vi",
+  "name": "Hàn ⇄ Việt",
+  "version": 1,
+  "sizeBytes": 1040553,
+  "pairs": 60000,
+  "file": "ko-vi.zip",
+  "quality": "seed+pivot+opus"
+ }
+]
