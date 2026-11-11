@@ -1,0 +1,151 @@
+{
+ "id": "es",
+ "name": "Tiếng Tây Ban Nha",
+ "nativeName": "Español",
+ "code": "ES",
+ "spaceLabel": "Español",
+ "engine": "latin",
+ "version": 1,
+ "rows": [
+  [
+   {
+    "label": "q",
+    "out": "q"
+   },
+   {
+    "label": "w",
+    "out": "w"
+   },
+   {
+    "label": "e",
+    "out": "e",
+    "variants": [
+     "é",
+     "ë"
+    ]
+   },
+   {
+    "label": "r",
+    "out": "r"
+   },
+   {
+    "label": "t",
+    "out": "t"
+   },
+   {
+    "label": "y",
+    "out": "y"
+   },
+   {
+    "label": "u",
+    "out": "u",
+    "variants": [
+     "ú",
+     "ü"
+    ]
+   },
+   {
+    "label": "i",
+    "out": "i",
+    "variants": [
+     "í",
+     "ï"
+    ]
+   },
+   {
+    "label": "o",
+    "out": "o",
+    "variants": [
+     "ó",
+     "ö"
+    ]
+   },
+   {
+    "label": "p",
+    "out": "p"
+   }
+  ],
+  [
+   {
+    "label": "a",
+    "out": "a",
+    "variants": [
+     "á",
+     "ä"
+    ]
+   },
+   {
+    "label": "s",
+    "out": "s"
+   },
+   {
+    "label": "d",
+    "out": "d"
+   },
+   {
+    "label": "f",
+    "out": "f"
+   },
+   {
+    "label": "g",
+    "out": "g"
+   },
+   {
+    "label": "h",
+    "out": "h"
+   },
+   {
+    "label": "j",
+    "out": "j"
+   },
+   {
+    "label": "k",
+    "out": "k"
+   },
+   {
+    "label": "l",
+    "out": "l"
+   },
+   {
+    "label": "ñ",
+    "out": "ñ"
+   }
+  ],
+  [
+   {
+    "label": "z",
+    "out": "z"
+   },
+   {
+    "label": "x",
+    "out": "x"
+   },
+   {
+    "label": "c",
+    "out": "c",
+    "variants": [
+     "ç"
+    ]
+   },
+   {
+    "label": "v",
+    "out": "v"
+   },
+   {
+    "label": "b",
+    "out": "b"
+   },
+   {
+    "label": "n",
+    "out": "n",
+    "variants": [
+     "ñ"
+    ]
+   },
+   {
+    "label": "m",
+    "out": "m"
+   }
+  ]
+ ]
+}

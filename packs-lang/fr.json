@@ -1,0 +1,158 @@
+{
+ "id": "fr",
+ "name": "Tiếng Pháp",
+ "nativeName": "Français",
+ "code": "FR",
+ "spaceLabel": "Français",
+ "engine": "latin",
+ "version": 1,
+ "rows": [
+  [
+   {
+    "label": "a",
+    "out": "a",
+    "variants": [
+     "à",
+     "â"
+    ]
+   },
+   {
+    "label": "z",
+    "out": "z"
+   },
+   {
+    "label": "e",
+    "out": "e",
+    "variants": [
+     "é",
+     "è",
+     "ê",
+     "ë"
+    ]
+   },
+   {
+    "label": "r",
+    "out": "r"
+   },
+   {
+    "label": "t",
+    "out": "t"
+   },
+   {
+    "label": "y",
+    "out": "y",
+    "variants": [
+     "ÿ"
+    ]
+   },
+   {
+    "label": "u",
+    "out": "u",
+    "variants": [
+     "ù",
+     "û",
+     "ü"
+    ]
+   },
+   {
+    "label": "i",
+    "out": "i",
+    "variants": [
+     "î",
+     "ï"
+    ]
+   },
+   {
+    "label": "o",
+    "out": "o",
+    "variants": [
+     "ô",
+     "ö"
+    ]
+   },
+   {
+    "label": "p",
+    "out": "p"
+   }
+  ],
+  [
+   {
+    "label": "q",
+    "out": "q"
+   },
+   {
+    "label": "s",
+    "out": "s"
+   },
+   {
+    "label": "d",
+    "out": "d"
+   },
+   {
+    "label": "f",
+    "out": "f"
+   },
+   {
+    "label": "g",
+    "out": "g"
+   },
+   {
+    "label": "h",
+    "out": "h"
+   },
+   {
+    "label": "j",
+    "out": "j"
+   },
+   {
+    "label": "k",
+    "out": "k"
+   },
+   {
+    "label": "l",
+    "out": "l"
+   },
+   {
+    "label": "m",
+    "out": "m"
+   },
+   {
+    "label": "ù",
+    "out": "ù",
+    "variants": [
+     "û",
+     "ü"
+    ]
+   }
+  ],
+  [
+   {
+    "label": "w",
+    "out": "w"
+   },
+   {
+    "label": "x",
+    "out": "x"
+   },
+   {
+    "label": "c",
+    "out": "c",
+    "variants": [
+     "ç"
+    ]
+   },
+   {
+    "label": "v",
+    "out": "v"
+   },
+   {
+    "label": "b",
+    "out": "b"
+   },
+   {
+    "label": "n",
+    "out": "n"
+   }
+  ]
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "id": "ko",
+ "name": "Tiếng Hàn",
+ "nativeName": "한국어",
+ "code": "KO",
+ "spaceLabel": "한국어",
+ "engine": "hangul",
+ "version": 1,
+ "rows": [
+  [
+   {
+    "label": "ㅂ",
+    "out": "ㅂ",
+    "shift": "ㅃ"
+   },
+   {
+    "label": "ㅈ",
+    "out": "ㅈ",
+    "shift": "ㅉ"
+   },
+   {
+    "label": "ㄷ",
+    "out": "ㄷ",
+    "shift": "ㄸ"
+   },
+   {
+    "label": "ㄱ",
+    "out": "ㄱ",
+    "shift": "ㄲ"
+   },
+   {
+    "label": "ㅅ",
+    "out": "ㅅ",
+    "shift": "ㅆ"
+   },
+   {
+    "label": "ㅛ",
+    "out": "ㅛ"
+   },
+   {
+    "label": "ㅕ",
+    "out": "ㅕ"
+   },
+   {
+    "label": "ㅑ",
+    "out": "ㅑ"
+   },
+   {
+    "label": "ㅐ",
+    "out": "ㅐ",
+    "shift": "ㅒ"
+   },
+   {
+    "label": "ㅔ",
+    "out": "ㅔ",
+    "shift": "ㅖ"
+   }
+  ],
+  [
+   {
+    "label": "ㅁ",
+    "out": "ㅁ"
+   },
+   {
+    "label": "ㄴ",
+    "out": "ㄴ"
+   },
+   {
+    "label": "ㅇ",
+    "out": "ㅇ"
+   },
+   {
+    "label": "ㄹ",
+    "out": "ㄹ"
+   },
+   {
+    "label": "ㅎ",
+    "out": "ㅎ"
+   },
+   {
+    "label": "ㅗ",
+    "out": "ㅗ"
+   },
+   {
+    "label": "ㅓ",
+    "out": "ㅓ"
+   },
+   {
+    "label": "ㅏ",
+    "out": "ㅏ"
+   },
+   {
+    "label": "ㅣ",
+    "out": "ㅣ"
+   }
+  ],
+  [
+   {
+    "label": "ㅋ",
+    "out": "ㅋ"
+   },
+   {
+    "label": "ㅌ",
+    "out": "ㅌ"
+   },
+   {
+    "label": "ㅊ",
+    "out": "ㅊ"
+   },
+   {
+    "label": "ㅍ",
+    "out": "ㅍ"
+   },
+   {
+    "label": "ㅠ",
+    "out": "ㅠ"
+   },
+   {
+    "label": "ㅜ",
+    "out": "ㅜ"
+   },
+   {
+    "label": "ㅡ",
+    "out": "ㅡ"
+   }
+  ]
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "packs": [
+  {
+   "id": "ko",
+   "name": "Tiếng Hàn",
+   "nativeName": "한국어",
+   "version": 1,
+   "file": "ko.json",
+   "size": 1573
+  },
+  {
+   "id": "es",
+   "name": "Tiếng Tây Ban Nha",
+   "nativeName": "Español",
+   "version": 1,
+   "file": "es.json",
+   "size": 1680
+  },
+  {
+   "id": "fr",
+   "name": "Tiếng Pháp",
+   "nativeName": "Français",
+   "version": 1,
+   "file": "fr.json",
+   "size": 1754
+  }
+ ]
+}
