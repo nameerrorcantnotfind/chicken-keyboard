@@ -1,0 +1,138 @@
+{
+ "id": "it",
+ "name": "Tiếng Ý",
+ "nativeName": "Italiano",
+ "englishName": "Italian",
+ "code": "IT",
+ "spaceLabel": "Italiano",
+ "engine": "latin",
+ "version": 1,
+ "rows": [
+  [
+   {
+    "label": "q",
+    "out": "q"
+   },
+   {
+    "label": "w",
+    "out": "w"
+   },
+   {
+    "label": "e",
+    "out": "e",
+    "variants": [
+     "è",
+     "é"
+    ]
+   },
+   {
+    "label": "r",
+    "out": "r"
+   },
+   {
+    "label": "t",
+    "out": "t"
+   },
+   {
+    "label": "y",
+    "out": "y"
+   },
+   {
+    "label": "u",
+    "out": "u",
+    "variants": [
+     "ù"
+    ]
+   },
+   {
+    "label": "i",
+    "out": "i",
+    "variants": [
+     "ì"
+    ]
+   },
+   {
+    "label": "o",
+    "out": "o",
+    "variants": [
+     "ò"
+    ]
+   },
+   {
+    "label": "p",
+    "out": "p"
+   }
+  ],
+  [
+   {
+    "label": "a",
+    "out": "a",
+    "variants": [
+     "à"
+    ]
+   },
+   {
+    "label": "s",
+    "out": "s"
+   },
+   {
+    "label": "d",
+    "out": "d"
+   },
+   {
+    "label": "f",
+    "out": "f"
+   },
+   {
+    "label": "g",
+    "out": "g"
+   },
+   {
+    "label": "h",
+    "out": "h"
+   },
+   {
+    "label": "j",
+    "out": "j"
+   },
+   {
+    "label": "k",
+    "out": "k"
+   },
+   {
+    "label": "l",
+    "out": "l"
+   }
+  ],
+  [
+   {
+    "label": "z",
+    "out": "z"
+   },
+   {
+    "label": "x",
+    "out": "x"
+   },
+   {
+    "label": "c",
+    "out": "c"
+   },
+   {
+    "label": "v",
+    "out": "v"
+   },
+   {
+    "label": "b",
+    "out": "b"
+   },
+   {
+    "label": "n",
+    "out": "n"
+   },
+   {
+    "label": "m",
+    "out": "m"
+   }
+  ]
+ ]
+}

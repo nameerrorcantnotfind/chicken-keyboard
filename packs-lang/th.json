@@ -1,0 +1,183 @@
+{
+ "id": "th",
+ "name": "Tiếng Thái",
+ "nativeName": "ไทย",
+ "englishName": "Thai",
+ "code": "TH",
+ "spaceLabel": "ไทย",
+ "engine": "latin",
+ "version": 1,
+ "rows": [
+  [
+   {
+    "label": "ๆ",
+    "out": "ๆ",
+    "shift": "๐"
+   },
+   {
+    "label": "ไ",
+    "out": "ไ",
+    "shift": "\""
+   },
+   {
+    "label": "ำ",
+    "out": "ำ",
+    "shift": "ฎ"
+   },
+   {
+    "label": "พ",
+    "out": "พ",
+    "shift": "ฑ"
+   },
+   {
+    "label": "ะ",
+    "out": "ะ",
+    "shift": "ธ"
+   },
+   {
+    "label": "ั",
+    "out": "ั",
+    "shift": "ํ"
+   },
+   {
+    "label": "ี",
+    "out": "ี",
+    "shift": "๊"
+   },
+   {
+    "label": "ร",
+    "out": "ร",
+    "shift": "ณ"
+   },
+   {
+    "label": "น",
+    "out": "น",
+    "shift": "ฯ"
+   },
+   {
+    "label": "ย",
+    "out": "ย",
+    "shift": "ญ"
+   },
+   {
+    "label": "บ",
+    "out": "บ",
+    "shift": "ฐ"
+   },
+   {
+    "label": "ล",
+    "out": "ล",
+    "shift": ","
+   }
+  ],
+  [
+   {
+    "label": "ฟ",
+    "out": "ฟ",
+    "shift": "ฤ"
+   },
+   {
+    "label": "ห",
+    "out": "ห",
+    "shift": "ฆ"
+   },
+   {
+    "label": "ก",
+    "out": "ก",
+    "shift": "ฏ"
+   },
+   {
+    "label": "ด",
+    "out": "ด",
+    "shift": "โ"
+   },
+   {
+    "label": "เ",
+    "out": "เ",
+    "shift": "ฌ"
+   },
+   {
+    "label": "้",
+    "out": "้",
+    "shift": "็"
+   },
+   {
+    "label": "่",
+    "out": "่",
+    "shift": "๋"
+   },
+   {
+    "label": "า",
+    "out": "า",
+    "shift": "ช"
+   },
+   {
+    "label": "ส",
+    "out": "ส",
+    "shift": "ซ"
+   },
+   {
+    "label": "ว",
+    "out": "ว",
+    "shift": "ฅ"
+   },
+   {
+    "label": "ง",
+    "out": "ง",
+    "shift": "—"
+   }
+  ],
+  [
+   {
+    "label": "ผ",
+    "out": "ผ",
+    "shift": "("
+   },
+   {
+    "label": "ป",
+    "out": "ป",
+    "shift": "ฉ"
+   },
+   {
+    "label": "แ",
+    "out": "แ",
+    "shift": "ฮ"
+   },
+   {
+    "label": "อ",
+    "out": "อ",
+    "shift": "ฺ"
+   },
+   {
+    "label": "ิ",
+    "out": "ิ",
+    "shift": "์"
+   },
+   {
+    "label": "ื",
+    "out": "ื",
+    "shift": "?"
+   },
+   {
+    "label": "ท",
+    "out": "ท",
+    "shift": "ฒ"
+   },
+   {
+    "label": "ม",
+    "out": "ม",
+    "shift": "ฬ"
+   },
+   {
+    "label": "ใ",
+    "out": "ใ",
+    "shift": "ฦ"
+   },
+   {
+    "label": "ฝ",
+    "out": "ฝ",
+    "shift": "–"
+   }
+  ]
+ ]
+}

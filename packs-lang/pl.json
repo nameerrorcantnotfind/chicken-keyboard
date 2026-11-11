@@ -1,0 +1,150 @@
+{
+ "id": "pl",
+ "name": "Tiếng Ba Lan",
+ "nativeName": "Polski",
+ "englishName": "Polish",
+ "code": "PL",
+ "spaceLabel": "Polski",
+ "engine": "latin",
+ "version": 1,
+ "rows": [
+  [
+   {
+    "label": "q",
+    "out": "q"
+   },
+   {
+    "label": "w",
+    "out": "w"
+   },
+   {
+    "label": "e",
+    "out": "e",
+    "variants": [
+     "ę"
+    ]
+   },
+   {
+    "label": "r",
+    "out": "r"
+   },
+   {
+    "label": "t",
+    "out": "t"
+   },
+   {
+    "label": "y",
+    "out": "y"
+   },
+   {
+    "label": "u",
+    "out": "u"
+   },
+   {
+    "label": "i",
+    "out": "i"
+   },
+   {
+    "label": "o",
+    "out": "o",
+    "variants": [
+     "ó"
+    ]
+   },
+   {
+    "label": "p",
+    "out": "p"
+   }
+  ],
+  [
+   {
+    "label": "a",
+    "out": "a",
+    "variants": [
+     "ą"
+    ]
+   },
+   {
+    "label": "s",
+    "out": "s",
+    "variants": [
+     "ś"
+    ]
+   },
+   {
+    "label": "d",
+    "out": "d"
+   },
+   {
+    "label": "f",
+    "out": "f"
+   },
+   {
+    "label": "g",
+    "out": "g"
+   },
+   {
+    "label": "h",
+    "out": "h"
+   },
+   {
+    "label": "j",
+    "out": "j"
+   },
+   {
+    "label": "k",
+    "out": "k"
+   },
+   {
+    "label": "l",
+    "out": "l",
+    "variants": [
+     "ł"
+    ]
+   }
+  ],
+  [
+   {
+    "label": "z",
+    "out": "z",
+    "variants": [
+     "ź",
+     "ż"
+    ]
+   },
+   {
+    "label": "x",
+    "out": "x",
+    "variants": [
+     "ż"
+    ]
+   },
+   {
+    "label": "c",
+    "out": "c",
+    "variants": [
+     "ć"
+    ]
+   },
+   {
+    "label": "v",
+    "out": "v"
+   },
+   {
+    "label": "b",
+    "out": "b"
+   },
+   {
+    "label": "n",
+    "out": "n",
+    "variants": [
+     "ń"
+    ]
+   },
+   {
+    "label": "m",
+    "out": "m"
+   }
+  ]
+ ]
+}

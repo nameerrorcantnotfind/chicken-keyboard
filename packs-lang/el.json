@@ -1,0 +1,168 @@
+{
+ "id": "el",
+ "name": "Tiếng Hy Lạp",
+ "nativeName": "Ελληνικά",
+ "englishName": "Greek",
+ "code": "EL",
+ "spaceLabel": "Ελληνικά",
+ "engine": "latin",
+ "version": 1,
+ "rows": [
+  [
+   {
+    "label": "ς",
+    "out": "ς",
+    "shift": "Σ"
+   },
+   {
+    "label": "ε",
+    "out": "ε",
+    "shift": "Ε",
+    "variants": [
+     "έ"
+    ]
+   },
+   {
+    "label": "ρ",
+    "out": "ρ",
+    "shift": "Ρ"
+   },
+   {
+    "label": "τ",
+    "out": "τ",
+    "shift": "Τ"
+   },
+   {
+    "label": "υ",
+    "out": "υ",
+    "shift": "Υ",
+    "variants": [
+     "ύ",
+     "ϋ",
+     "ΰ"
+    ]
+   },
+   {
+    "label": "θ",
+    "out": "θ",
+    "shift": "Θ"
+   },
+   {
+    "label": "ι",
+    "out": "ι",
+    "shift": "Ι",
+    "variants": [
+     "ί",
+     "ϊ",
+     "ΐ"
+    ]
+   },
+   {
+    "label": "ο",
+    "out": "ο",
+    "shift": "Ο",
+    "variants": [
+     "ό"
+    ]
+   },
+   {
+    "label": "π",
+    "out": "π",
+    "shift": "Π"
+   }
+  ],
+  [
+   {
+    "label": "α",
+    "out": "α",
+    "shift": "Α",
+    "variants": [
+     "ά"
+    ]
+   },
+   {
+    "label": "σ",
+    "out": "σ",
+    "shift": "Σ"
+   },
+   {
+    "label": "δ",
+    "out": "δ",
+    "shift": "Δ"
+   },
+   {
+    "label": "φ",
+    "out": "φ",
+    "shift": "Φ"
+   },
+   {
+    "label": "γ",
+    "out": "γ",
+    "shift": "Γ"
+   },
+   {
+    "label": "η",
+    "out": "η",
+    "shift": "Η",
+    "variants": [
+     "ή"
+    ]
+   },
+   {
+    "label": "ξ",
+    "out": "ξ",
+    "shift": "Ξ"
+   },
+   {
+    "label": "κ",
+    "out": "κ",
+    "shift": "Κ"
+   },
+   {
+    "label": "λ",
+    "out": "λ",
+    "shift": "Λ"
+   }
+  ],
+  [
+   {
+    "label": "ζ",
+    "out": "ζ",
+    "shift": "Ζ"
+   },
+   {
+    "label": "χ",
+    "out": "χ",
+    "shift": "Χ"
+   },
+   {
+    "label": "ψ",
+    "out": "ψ",
+    "shift": "Ψ"
+   },
+   {
+    "label": "ω",
+    "out": "ω",
+    "shift": "Ω",
+    "variants": [
+     "ώ"
+    ]
+   },
+   {
+    "label": "β",
+    "out": "β",
+    "shift": "Β"
+   },
+   {
+    "label": "ν",
+    "out": "ν",
+    "shift": "Ν"
+   },
+   {
+    "label": "μ",
+    "out": "μ",
+    "shift": "Μ"
+   }
+  ]
+ ]
+}

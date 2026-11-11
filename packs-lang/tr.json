@@ -1,0 +1,148 @@
+{
+ "id": "tr",
+ "name": "Tiếng Thổ Nhĩ Kỳ",
+ "nativeName": "Türkçe",
+ "englishName": "Turkish",
+ "code": "TR",
+ "spaceLabel": "Türkçe",
+ "engine": "latin",
+ "version": 1,
+ "rows": [
+  [
+   {
+    "label": "q",
+    "out": "q"
+   },
+   {
+    "label": "w",
+    "out": "w"
+   },
+   {
+    "label": "e",
+    "out": "e"
+   },
+   {
+    "label": "r",
+    "out": "r"
+   },
+   {
+    "label": "t",
+    "out": "t"
+   },
+   {
+    "label": "y",
+    "out": "y"
+   },
+   {
+    "label": "u",
+    "out": "u"
+   },
+   {
+    "label": "ı",
+    "out": "ı",
+    "shift": "I"
+   },
+   {
+    "label": "o",
+    "out": "o"
+   },
+   {
+    "label": "p",
+    "out": "p"
+   },
+   {
+    "label": "ğ",
+    "out": "ğ"
+   },
+   {
+    "label": "ü",
+    "out": "ü"
+   }
+  ],
+  [
+   {
+    "label": "a",
+    "out": "a"
+   },
+   {
+    "label": "s",
+    "out": "s"
+   },
+   {
+    "label": "d",
+    "out": "d"
+   },
+   {
+    "label": "f",
+    "out": "f"
+   },
+   {
+    "label": "g",
+    "out": "g"
+   },
+   {
+    "label": "h",
+    "out": "h"
+   },
+   {
+    "label": "j",
+    "out": "j"
+   },
+   {
+    "label": "k",
+    "out": "k"
+   },
+   {
+    "label": "l",
+    "out": "l"
+   },
+   {
+    "label": "ş",
+    "out": "ş"
+   },
+   {
+    "label": "i",
+    "out": "i",
+    "shift": "İ"
+   }
+  ],
+  [
+   {
+    "label": "z",
+    "out": "z"
+   },
+   {
+    "label": "x",
+    "out": "x"
+   },
+   {
+    "label": "c",
+    "out": "c"
+   },
+   {
+    "label": "v",
+    "out": "v"
+   },
+   {
+    "label": "b",
+    "out": "b"
+   },
+   {
+    "label": "n",
+    "out": "n"
+   },
+   {
+    "label": "m",
+    "out": "m"
+   },
+   {
+    "label": "ö",
+    "out": "ö"
+   },
+   {
+    "label": "ç",
+    "out": "ç"
+   }
+  ]
+ ]
+}

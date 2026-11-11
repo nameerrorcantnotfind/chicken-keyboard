@@ -1,0 +1,141 @@
+{
+ "id": "sv",
+ "name": "Tiếng Thụy Điển",
+ "nativeName": "Svenska",
+ "englishName": "Swedish",
+ "code": "SV",
+ "spaceLabel": "Svenska",
+ "engine": "latin",
+ "version": 1,
+ "rows": [
+  [
+   {
+    "label": "q",
+    "out": "q"
+   },
+   {
+    "label": "w",
+    "out": "w"
+   },
+   {
+    "label": "e",
+    "out": "e"
+   },
+   {
+    "label": "r",
+    "out": "r"
+   },
+   {
+    "label": "t",
+    "out": "t"
+   },
+   {
+    "label": "y",
+    "out": "y"
+   },
+   {
+    "label": "u",
+    "out": "u"
+   },
+   {
+    "label": "i",
+    "out": "i"
+   },
+   {
+    "label": "o",
+    "out": "o",
+    "variants": [
+     "ö"
+    ]
+   },
+   {
+    "label": "p",
+    "out": "p"
+   },
+   {
+    "label": "å",
+    "out": "å"
+   }
+  ],
+  [
+   {
+    "label": "a",
+    "out": "a",
+    "variants": [
+     "å",
+     "ä"
+    ]
+   },
+   {
+    "label": "s",
+    "out": "s"
+   },
+   {
+    "label": "d",
+    "out": "d"
+   },
+   {
+    "label": "f",
+    "out": "f"
+   },
+   {
+    "label": "g",
+    "out": "g"
+   },
+   {
+    "label": "h",
+    "out": "h"
+   },
+   {
+    "label": "j",
+    "out": "j"
+   },
+   {
+    "label": "k",
+    "out": "k"
+   },
+   {
+    "label": "l",
+    "out": "l"
+   },
+   {
+    "label": "ö",
+    "out": "ö"
+   },
+   {
+    "label": "ä",
+    "out": "ä"
+   }
+  ],
+  [
+   {
+    "label": "z",
+    "out": "z"
+   },
+   {
+    "label": "x",
+    "out": "x"
+   },
+   {
+    "label": "c",
+    "out": "c"
+   },
+   {
+    "label": "v",
+    "out": "v"
+   },
+   {
+    "label": "b",
+    "out": "b"
+   },
+   {
+    "label": "n",
+    "out": "n"
+   },
+   {
+    "label": "m",
+    "out": "m"
+   }
+  ]
+ ]
+}

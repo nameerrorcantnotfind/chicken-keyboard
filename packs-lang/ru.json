@@ -1,0 +1,178 @@
+{
+ "id": "ru",
+ "name": "Tiếng Nga",
+ "nativeName": "Русский",
+ "englishName": "Russian",
+ "code": "RU",
+ "spaceLabel": "Русский",
+ "engine": "latin",
+ "version": 1,
+ "rows": [
+  [
+   {
+    "label": "й",
+    "out": "й",
+    "shift": "Й"
+   },
+   {
+    "label": "ц",
+    "out": "ц",
+    "shift": "Ц"
+   },
+   {
+    "label": "у",
+    "out": "у",
+    "shift": "У"
+   },
+   {
+    "label": "к",
+    "out": "к",
+    "shift": "К"
+   },
+   {
+    "label": "е",
+    "out": "е",
+    "shift": "Е"
+   },
+   {
+    "label": "н",
+    "out": "н",
+    "shift": "Н"
+   },
+   {
+    "label": "г",
+    "out": "г",
+    "shift": "Г"
+   },
+   {
+    "label": "ш",
+    "out": "ш",
+    "shift": "Ш"
+   },
+   {
+    "label": "щ",
+    "out": "щ",
+    "shift": "Щ"
+   },
+   {
+    "label": "з",
+    "out": "з",
+    "shift": "З"
+   },
+   {
+    "label": "х",
+    "out": "х",
+    "shift": "Х"
+   },
+   {
+    "label": "ъ",
+    "out": "ъ",
+    "shift": "Ъ"
+   }
+  ],
+  [
+   {
+    "label": "ф",
+    "out": "ф",
+    "shift": "Ф"
+   },
+   {
+    "label": "ы",
+    "out": "ы",
+    "shift": "Ы"
+   },
+   {
+    "label": "в",
+    "out": "в",
+    "shift": "В"
+   },
+   {
+    "label": "а",
+    "out": "а",
+    "shift": "А"
+   },
+   {
+    "label": "п",
+    "out": "п",
+    "shift": "П"
+   },
+   {
+    "label": "р",
+    "out": "р",
+    "shift": "Р"
+   },
+   {
+    "label": "о",
+    "out": "о",
+    "shift": "О"
+   },
+   {
+    "label": "л",
+    "out": "л",
+    "shift": "Л"
+   },
+   {
+    "label": "д",
+    "out": "д",
+    "shift": "Д"
+   },
+   {
+    "label": "ж",
+    "out": "ж",
+    "shift": "Ж"
+   },
+   {
+    "label": "э",
+    "out": "э",
+    "shift": "Э"
+   }
+  ],
+  [
+   {
+    "label": "я",
+    "out": "я",
+    "shift": "Я"
+   },
+   {
+    "label": "ч",
+    "out": "ч",
+    "shift": "Ч"
+   },
+   {
+    "label": "с",
+    "out": "с",
+    "shift": "С"
+   },
+   {
+    "label": "м",
+    "out": "м",
+    "shift": "М"
+   },
+   {
+    "label": "и",
+    "out": "и",
+    "shift": "И"
+   },
+   {
+    "label": "т",
+    "out": "т",
+    "shift": "Т"
+   },
+   {
+    "label": "ь",
+    "out": "ь",
+    "shift": "Ь"
+   },
+   {
+    "label": "б",
+    "out": "б",
+    "shift": "Б"
+   },
+   {
+    "label": "ю",
+    "out": "ю",
+    "shift": "Ю"
+   }
+  ]
+ ]
+}

@@ -1,9 +1,11 @@
 {
+ "version": 2,
  "packs": [
   {
    "id": "ko",
    "name": "Tiếng Hàn",
    "nativeName": "한국어",
+   "englishName": "Korean",
    "version": 1,
    "file": "ko.json",
    "size": 1573
@@ -12,6 +14,7 @@
    "id": "es",
    "name": "Tiếng Tây Ban Nha",
    "nativeName": "Español",
+   "englishName": "Spanish",
    "version": 1,
    "file": "es.json",
    "size": 1680
@@ -20,9 +23,190 @@
    "id": "fr",
    "name": "Tiếng Pháp",
    "nativeName": "Français",
+   "englishName": "French",
    "version": 1,
    "file": "fr.json",
    "size": 1754
+  },
+  {
+   "id": "pt-br",
+   "name": "Tiếng Bồ Đào Nha (Brazil)",
+   "nativeName": "Português (BR)",
+   "englishName": "Portuguese (Brazil)",
+   "version": 1,
+   "file": "pt-br.json",
+   "size": 1729
+  },
+  {
+   "id": "ja",
+   "name": "Tiếng Nhật",
+   "nativeName": "日本語",
+   "englishName": "Japanese",
+   "version": 1,
+   "file": "ja.json",
+   "size": 1449
+  },
+  {
+   "id": "th",
+   "name": "Tiếng Thái",
+   "nativeName": "ไทย",
+   "englishName": "Thai",
+   "version": 1,
+   "file": "th.json",
+   "size": 2446
+  },
+  {
+   "id": "pt-pt",
+   "name": "Tiếng Bồ Đào Nha",
+   "nativeName": "Português",
+   "englishName": "Portuguese",
+   "version": 1,
+   "file": "pt-pt.json",
+   "size": 1706
+  },
+  {
+   "id": "de",
+   "name": "Tiếng Đức",
+   "nativeName": "Deutsch",
+   "englishName": "German",
+   "version": 1,
+   "file": "de.json",
+   "size": 1630
+  },
+  {
+   "id": "it",
+   "name": "Tiếng Ý",
+   "nativeName": "Italiano",
+   "englishName": "Italian",
+   "version": 1,
+   "file": "it.json",
+   "size": 1537
+  },
+  {
+   "id": "nl",
+   "name": "Tiếng Hà Lan",
+   "nativeName": "Nederlands",
+   "englishName": "Dutch",
+   "version": 1,
+   "file": "nl.json",
+   "size": 1544
+  },
+  {
+   "id": "sv",
+   "name": "Tiếng Thụy Điển",
+   "nativeName": "Svenska",
+   "englishName": "Swedish",
+   "version": 1,
+   "file": "sv.json",
+   "size": 1580
+  },
+  {
+   "id": "da",
+   "name": "Tiếng Đan Mạch",
+   "nativeName": "Dansk",
+   "englishName": "Danish",
+   "version": 1,
+   "file": "da.json",
+   "size": 1526
+  },
+  {
+   "id": "no",
+   "name": "Tiếng Na Uy",
+   "nativeName": "Norsk",
+   "englishName": "Norwegian",
+   "version": 1,
+   "file": "no.json",
+   "size": 1523
+  },
+  {
+   "id": "fi",
+   "name": "Tiếng Phần Lan",
+   "nativeName": "Suomi",
+   "englishName": "Finnish",
+   "version": 1,
+   "file": "fi.json",
+   "size": 1572
+  },
+  {
+   "id": "pl",
+   "name": "Tiếng Ba Lan",
+   "nativeName": "Polski",
+   "englishName": "Polish",
+   "version": 1,
+   "file": "pl.json",
+   "size": 1676
+  },
+  {
+   "id": "cs",
+   "name": "Tiếng Séc",
+   "nativeName": "Čeština",
+   "englishName": "Czech",
+   "version": 1,
+   "file": "cs.json",
+   "size": 1830
+  },
+  {
+   "id": "tr",
+   "name": "Tiếng Thổ Nhĩ Kỳ",
+   "nativeName": "Türkçe",
+   "englishName": "Turkish",
+   "version": 1,
+   "file": "tr.json",
+   "size": 1677
+  },
+  {
+   "id": "id",
+   "name": "Tiếng Indonesia",
+   "nativeName": "Bahasa Indonesia",
+   "englishName": "Indonesian",
+   "version": 1,
+   "file": "id.json",
+   "size": 1412
+  },
+  {
+   "id": "ms",
+   "name": "Tiếng Mã Lai",
+   "nativeName": "Bahasa Melayu",
+   "englishName": "Malay",
+   "version": 1,
+   "file": "ms.json",
+   "size": 1399
+  },
+  {
+   "id": "ro",
+   "name": "Tiếng Romania",
+   "nativeName": "Română",
+   "englishName": "Romanian",
+   "version": 1,
+   "file": "ro.json",
+   "size": 1508
+  },
+  {
+   "id": "ru",
+   "name": "Tiếng Nga",
+   "nativeName": "Русский",
+   "englishName": "Russian",
+   "version": 1,
+   "file": "ru.json",
+   "size": 2300
+  },
+  {
+   "id": "uk",
+   "name": "Tiếng Ukraina",
+   "nativeName": "Українська",
+   "englishName": "Ukrainian",
+   "version": 1,
+   "file": "uk.json",
+   "size": 2353
+  },
+  {
+   "id": "el",
+   "name": "Tiếng Hy Lạp",
+   "nativeName": "Ελληνικά",
+   "englishName": "Greek",
+   "version": 1,
+   "file": "el.json",
+   "size": 2141
   }
  ]
 }

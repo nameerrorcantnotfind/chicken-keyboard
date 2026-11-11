@@ -1,0 +1,163 @@
+{
+ "id": "cs",
+ "name": "Tiếng Séc",
+ "nativeName": "Čeština",
+ "englishName": "Czech",
+ "code": "CS",
+ "spaceLabel": "Čeština",
+ "engine": "latin",
+ "version": 1,
+ "rows": [
+  [
+   {
+    "label": "q",
+    "out": "q"
+   },
+   {
+    "label": "w",
+    "out": "w"
+   },
+   {
+    "label": "e",
+    "out": "e",
+    "variants": [
+     "ě",
+     "é"
+    ]
+   },
+   {
+    "label": "r",
+    "out": "r",
+    "variants": [
+     "ř"
+    ]
+   },
+   {
+    "label": "t",
+    "out": "t",
+    "variants": [
+     "ť"
+    ]
+   },
+   {
+    "label": "z",
+    "out": "z",
+    "variants": [
+     "ž"
+    ]
+   },
+   {
+    "label": "u",
+    "out": "u",
+    "variants": [
+     "ú",
+     "ů"
+    ]
+   },
+   {
+    "label": "i",
+    "out": "i",
+    "variants": [
+     "í"
+    ]
+   },
+   {
+    "label": "o",
+    "out": "o",
+    "variants": [
+     "ó"
+    ]
+   },
+   {
+    "label": "p",
+    "out": "p"
+   }
+  ],
+  [
+   {
+    "label": "a",
+    "out": "a",
+    "variants": [
+     "á"
+    ]
+   },
+   {
+    "label": "s",
+    "out": "s",
+    "variants": [
+     "š"
+    ]
+   },
+   {
+    "label": "d",
+    "out": "d",
+    "variants": [
+     "ď"
+    ]
+   },
+   {
+    "label": "f",
+    "out": "f"
+   },
+   {
+    "label": "g",
+    "out": "g"
+   },
+   {
+    "label": "h",
+    "out": "h"
+   },
+   {
+    "label": "j",
+    "out": "j"
+   },
+   {
+    "label": "k",
+    "out": "k"
+   },
+   {
+    "label": "l",
+    "out": "l"
+   }
+  ],
+  [
+   {
+    "label": "y",
+    "out": "y",
+    "variants": [
+     "ý"
+    ]
+   },
+   {
+    "label": "x",
+    "out": "x"
+   },
+   {
+    "label": "c",
+    "out": "c",
+    "variants": [
+     "č"
+    ]
+   },
+   {
+    "label": "v",
+    "out": "v"
+   },
+   {
+    "label": "b",
+    "out": "b"
+   },
+   {
+    "label": "n",
+    "out": "n",
+    "variants": [
+     "ň"
+    ]
+   },
+   {
+    "label": "m",
+    "out": "m"
+   }
+  ]
+ ]
+}

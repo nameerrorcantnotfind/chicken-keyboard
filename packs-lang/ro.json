@@ -1,0 +1,135 @@
+{
+ "id": "ro",
+ "name": "Tiếng Romania",
+ "nativeName": "Română",
+ "englishName": "Romanian",
+ "code": "RO",
+ "spaceLabel": "Română",
+ "engine": "latin",
+ "version": 1,
+ "rows": [
+  [
+   {
+    "label": "q",
+    "out": "q"
+   },
+   {
+    "label": "w",
+    "out": "w"
+   },
+   {
+    "label": "e",
+    "out": "e"
+   },
+   {
+    "label": "r",
+    "out": "r"
+   },
+   {
+    "label": "t",
+    "out": "t",
+    "variants": [
+     "ț"
+    ]
+   },
+   {
+    "label": "y",
+    "out": "y"
+   },
+   {
+    "label": "u",
+    "out": "u"
+   },
+   {
+    "label": "i",
+    "out": "i",
+    "variants": [
+     "î"
+    ]
+   },
+   {
+    "label": "o",
+    "out": "o"
+   },
+   {
+    "label": "p",
+    "out": "p"
+   }
+  ],
+  [
+   {
+    "label": "a",
+    "out": "a",
+    "variants": [
+     "ă",
+     "â"
+    ]
+   },
+   {
+    "label": "s",
+    "out": "s",
+    "variants": [
+     "ș"
+    ]
+   },
+   {
+    "label": "d",
+    "out": "d"
+   },
+   {
+    "label": "f",
+    "out": "f"
+   },
+   {
+    "label": "g",
+    "out": "g"
+   },
+   {
+    "label": "h",
+    "out": "h"
+   },
+   {
+    "label": "j",
+    "out": "j"
+   },
+   {
+    "label": "k",
+    "out": "k"
+   },
+   {
+    "label": "l",
+    "out": "l"
+   }
+  ],
+  [
+   {
+    "label": "z",
+    "out": "z"
+   },
+   {
+    "label": "x",
+    "out": "x"
+   },
+   {
+    "label": "c",
+    "out": "c"
+   },
+   {
+    "label": "v",
+    "out": "v"
+   },
+   {
+    "label": "b",
+    "out": "b"
+   },
+   {
+    "label": "n",
+    "out": "n"
+   },
+   {
+    "label": "m",
+    "out": "m"
+   }
+  ]
+ ]
+}
